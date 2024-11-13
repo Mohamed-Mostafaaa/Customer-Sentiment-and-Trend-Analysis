@@ -2,7 +2,7 @@
 
 # Customer Sentiment and Trend Analysis
 
-## overwiew:
+## overview:
 
 The project analyzes customer sentiment and trend analysis of IMDB reviews, Twitter tweets and comments on various products, YELP reviews and amazon product reviews and ratings.
 
