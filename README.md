@@ -26,6 +26,7 @@ The project uses libraries like pandas, NumPy, matplotlib, seaborn, NLTK, Scikit
 - [Mohamed Mostafa](https://www.linkedin.com/in/mohamed-mostafaaa/)
 - [Moaz Tawfik](https://www.linkedin.com/in/moaz-tawfik-b276502a7/)
 - [Mohamed Talaat](https://www.linkedin.com/in/mohamed-talaat-2751998de/)
+- [Mohamed alaa](https://www.linkedin.com/in/mohamed-elsayad-800a66291/)
 
 ## Deployment
 
